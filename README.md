@@ -11,5 +11,6 @@
 ## GitHub Stats 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maykonmarcosjuniordev-star&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maykonmarcosjuniordev-star&layout=compact&langs_count=15&theme=great-gatsby"/>
+  <br>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maykonmarcosjuniordev-star&layout=compact&langs_count=15&theme=great-gatsby"/>
 </div>
